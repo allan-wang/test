@@ -10,7 +10,7 @@ public class SendActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_send);
-	}
+	} 
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
